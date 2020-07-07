@@ -1,9 +1,8 @@
 # hello-world
-Just another repository
+My first repository
 
-Two branches:
-1)To tak an integer input
-2)To print hello world
+To do:
+1)To print hello world
 
 
-Mohith is a great programmer
+Mohith is a programmer
